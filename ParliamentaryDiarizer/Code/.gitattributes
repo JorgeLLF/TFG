@@ -1,0 +1,4 @@
+installing/ffmpeg/bin/ffmpeg.exe filter=lfs diff=lfs merge=lfs -text
+installing/ffmpeg/bin/ffplay.exe filter=lfs diff=lfs merge=lfs -text
+installing/ffmpeg/bin/ffprobe.exe filter=lfs diff=lfs merge=lfs -text
+shot_classification/*.pth filter=lfs diff=lfs merge=lfs -text

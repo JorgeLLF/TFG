@@ -1,0 +1,23 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Lib.Program" />
+          <option value="Lib.indexs" />
+          <option value="super.adn" />
+          <option value="Code.truetestShotBoundaryDetectionTransNetV2.transnetv2_pytorch" />
+          <option value="Code.testShotBoundaryDetectionTransNetV2.transnetv2_pytorch" />
+          <option value="Code.ShotBoundaryDetectors.TransNetV2ShotBoundaryDetector.transnetv2_pytorch" />
+          <option value="Code.ShotBoundaryDetectors.TransNetV2ShotBoundaryDetector.TransNetV2" />
+          <option value="Code.data_collecting.embeddings.embedding_file_savers.FacialEmbeddingsSaverToJSON.save_embeddings_to_file" />
+          <option value="Code.data_collecting.embeddings.embedding_file_savers.VocalEmbeddingsSaverToJSON.save_embeddings_to_file" />
+          <option value="Code.data_collecting.embeddings.embedding_file_readers.FacialEmbeddingsJSONReader.read_embeddings_from_file" />
+          <option value="Code.data_collecting.embeddings.embedding_file_readers.VocalEmbeddingsJSONReader.read_embeddings_from_file" />
+          <option value="object.pop" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
