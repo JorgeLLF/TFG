@@ -16,3 +16,6 @@ En caso de querer usar la detección por histograma de color, descomentar el blo
 en main.py o en main_with_gui.py (según la versión probada) y comentar el bloque de red neuronal. Lo mismo para probar
 otros resumidores, comentar y descomentar en los scripts ya mencionados en función del que se quiera
 probar.
+
+- En caso de usar un SO Windows, será necesario, además de los paquetes establecidos en el requirements.txt, instalar
+el fichero de extensión .whl que se encuentra en el directorio installing dentro de Code (pip install ...).
