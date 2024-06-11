@@ -1,6 +1,6 @@
 # TFG
 
-###Repositorio de TFG "Diarización y resumen de intervenciones parlamentarias en el Parlamento de Canarias"
+### Repositorio de TFG "Diarización y resumen de intervenciones parlamentarias en el Parlamento de Canarias"
 
 - Se debe introducir una API_KEY de pago de OpenAI, así como un token de autenticación de pyannote.audio, en el fichero 
 config.py en el módulo Code, en las variables OPENAI_API_KEY y PYANNOTE_AUTH_TOKEN.
